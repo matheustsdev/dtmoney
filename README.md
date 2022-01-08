@@ -8,7 +8,8 @@ A application to help anyone to organize your money.
 
 - React,
 - Typescript,
+- ContextApi,
 - Styled Component,
 - MirageJS,
 - Axios,
-- Polished
+- Polished.
